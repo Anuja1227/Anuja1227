@@ -28,16 +28,11 @@
 - 📫 Reach me at: **singhanuja1227@gmail.com**
 
 --- 
-💻 I love working on:
-- 🔢 Data Structures & Algorithms (DSA)
-- 📱 Android Development using Jetpack Compose
-- 🌐 Frontend Development (Currently Learning)
-- 🧠 UI/UX Designing, wireframing and prototyping in Figma
-
-🚀 I’m passionate about:
-- Solving real-world problems through code
-- Learning new technologies
-- Building intuitive and impactful user experiences
+- 🔢 I regularly practice Data Structures and Algorithms (DSA)  
+- 🤖 I have knowledge in **Android Development** (Kotlin + Jetpack Compose)  
+- 🌐 Currently learning **Frontend Development** (HTML, CSS, JS)  
+- 🧠 UI/UX Designing, Wireframing, and Prototyping in **Figma**  
+- 💡 Passionate about exploring new technologies and building real-world solutions 
 
 ---
 
@@ -57,6 +52,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+
 
 ---
 
