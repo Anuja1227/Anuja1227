@@ -21,12 +21,9 @@
 
 
 
-<h1 align="center">Hi there 👋, I'm Anuja</h1>
 <h3 align="center">A passionate problem solver, UI/UX Designer, Android Developer & Tech Explorer</h3>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xoxoharsh/) 
-
 - 💬 Ask me about anything related to Technology, if I don't know about it, I would be interested in learning more!
 - 📫 Reach me at: **singhanuja1227@gmail.com**
 
