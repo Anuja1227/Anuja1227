@@ -32,3 +32,11 @@
 |----------|-----------------|
 | **Programming Languages** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuja1227&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuja1227&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuja1227&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
