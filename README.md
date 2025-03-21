@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Anuja+Singh;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 
-<h3 align="center">A passionate problem solver, Android Developer,Frontend Web Development Enthusiast (currently exploring HTML, CSS, JavaScript), UI/UX Designer & Tech Explorer</h3>
+<h3 align="center">A passionate problem solver, Android Developer, UI/UX Designer & Tech Explorer</h3>
 
 ---
 
