@@ -24,7 +24,15 @@
 ---
 
 - 💬 Ask me about anything related to Technology. If I don't know about it, I’ll be excited to learn!
-- 📫 **Reach me at: [singhanuja1227@gmail.com](mailto:singhanuja1227@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anuja-singh-864068250/)**
+-📫 **Reach me at**:  
+  <p align="center">
+    <a href="mailto:singhanuja1227@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/anuja-singh-864068250/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
 ---
 
@@ -36,7 +44,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Skills and Tools
 
 | Category | Skills and Icons |
 |----------|------------------|
