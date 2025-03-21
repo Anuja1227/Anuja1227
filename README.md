@@ -24,6 +24,7 @@
 ---
 
 - 💬 Ask me about anything related to Technology. If I don't know about it, I’ll be excited to learn!
+  
 -📫 **Reach me at**:  
   <p align="center">
     <a href="mailto:singhanuja1227@gmail.com">
